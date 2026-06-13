@@ -23,15 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 
-
-
-# vercel
-.vercel
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# Playwright browser profiles
-playwright-adzuna-profile/
-scrape-progress.json
